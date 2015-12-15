@@ -1,4 +1,5 @@
-A prototype of the map tool using PaperJS, ReactJS, and the Flux architecture.
+This runs a simulation for a 3-station autonomous shuttle fleet and displays
+various metrics of the system in the browser. 
 
 ```
 > npm install
